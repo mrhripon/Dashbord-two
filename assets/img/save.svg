@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.392" height="16.733" viewBox="0 0 16.392 16.733">
+  <g id="save" transform="translate(-0.5 0)">
+    <path id="Path_48" data-name="Path 48" d="M13.96,0H.5V16.733H16.892V2.932ZM12.452.683V5.464h-8.2V.683ZM3.573,16.05V9.562h9.9V16.05Zm12.635,0H14.16V8.879H2.89V16.05H1.183V.683h2.39V6.147h9.562V.683h.542l2.532,2.532Z" fill="#fff"/>
+    <path id="Path_49" data-name="Path 49" d="M12.841,31.683h2.39a.341.341,0,0,0,0-.683h-2.39a.341.341,0,1,0,0,.683Z" transform="translate(-7.902 -20.414)" fill="#fff"/>
+    <path id="Path_50" data-name="Path 50" d="M16.256,35H12.841a.341.341,0,1,0,0,.683h3.415a.341.341,0,0,0,0-.683Z" transform="translate(-7.902 -23.048)" fill="#fff"/>
+    <path id="Path_51" data-name="Path 51" d="M25.6,35.107a.346.346,0,0,0,0,.485.351.351,0,0,0,.242.1.342.342,0,1,0-.242-.584Z" transform="translate(-16.463 -23.056)" fill="#fff"/>
+    <path id="Path_52" data-name="Path 52" d="M29.549,4H27.5V7.415h2.049Zm-.683,2.732h-.683V4.683h.683Z" transform="translate(-17.78 -2.634)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.444" height="36.43" viewBox="0 0 33.444 36.43">
+  <g id="security-code" transform="translate(-12.145)">
+    <path id="Path_61" data-name="Path 61" d="M129.807,70.079c-.592-3.527-3.209-3.841-4.132-3.841a2.657,2.657,0,0,0-.312.015,3.2,3.2,0,0,0-2.986-1.99,4.4,4.4,0,0,0-1.79.4,3.24,3.24,0,0,0-3.029-1.99,4.553,4.553,0,0,0-1.821.4V58.857a2.4,2.4,0,1,0-4.795,0v10.58c-5.532,1.35-.492,9.655,1.106,12.154v3.067a1.4,1.4,0,0,0,1.349,1.291h12.663a1.191,1.191,0,0,0,1.11-1.291V81.748A16.031,16.031,0,0,0,129.807,70.079Z" transform="translate(-84.435 -49.518)" fill="#fff"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="2.41" cy="2.41" r="2.41" transform="translate(26.461 0)" fill="#fff"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="2.41" cy="2.41" r="2.41" transform="translate(19.23 6.941)" fill="#fff"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="2.41" cy="2.41" r="2.41" transform="translate(19.23 0)" fill="#fff"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="2.41" cy="2.41" r="2.41" transform="translate(12.145 6.941)" fill="#fff"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="2.41" cy="2.41" r="2.41" transform="translate(12.145 0)" fill="#fff"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="2.41" cy="2.41" r="2.41" transform="translate(19.23 13.882)" fill="#fff"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.41" cy="2.41" r="2.41" transform="translate(12.145 13.882)" fill="#fff"/>
+  </g>
+</svg>
